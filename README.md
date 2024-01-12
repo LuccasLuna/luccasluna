@@ -15,8 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-## 🛠 Technologies and tools
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3ejE0bHhneDZ4eHo1NXNrY242cTBsYTU5dnlucnJtbXRkZGFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
+
+<h2> 🛠 Technologies and tools </h2> 
 
 ### Languages
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
@@ -37,13 +38,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3ejE0bHhneDZ4eHo1NXNrY242cTBsYTU5dnlucnJtbXRkZGFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif"  />
 
-###
-
-<br clear="both">
-
-
-###
 
 
