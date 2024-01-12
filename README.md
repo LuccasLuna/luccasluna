@@ -1,5 +1,10 @@
 # Hi, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuccasLuna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ## 🔧 Technologies and tools
 
 ### Languages
@@ -17,10 +22,7 @@
 [<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuccasLuna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
