@@ -15,9 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!-- ferramentas -->
 
 <h2> 🛠 Technologies and tools </h2> 
-
 
 ### Languages
 
@@ -39,7 +39,13 @@
 [<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>](https://www.oracle.com/) 
 [<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>](https://www.mysql.com/) 
 
-###
+<!-- Portfolio -->
+## Portfolio:
+- [React - Front-end](https://github.com/LuccasLuna/react)
+- [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
+- [Html, css, javaScript- Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
+
+
 
 
 
