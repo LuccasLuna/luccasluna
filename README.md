@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna)
 
-<img align="right" alt="hackerman" width="280" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif">
+<img align="right" alt="hackerman" width="300" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif">
 <p>
   🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
