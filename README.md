@@ -1,11 +1,12 @@
+<!-- Presentation -->
 <h2 align="left">Hi 👋! My name is Lucas, I'm from Brazil and I love programming, art and games.</h2>
 
 ###
 
 <p align="left"> 
-  - 🌱 I’m currently studying software engineer at Universidade Nove de Julho.
+  🌱 I’m currently studying software engineer at Universidade Nove de Julho.
   
-  - 🔎 I am looking for my first job opportunity. 
+  🔎 I am looking for my first job opportunity. 
 </p>
 
 ###
