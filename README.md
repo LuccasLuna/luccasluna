@@ -3,7 +3,7 @@
 </div>
 
 <!-- Presentation -->
-<h1> Hi, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>  
+<h1 align="center"> Hi, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>  
 
 <p>
   🌱 I’m currently studying software engineer at Universidade nove de julho
