@@ -41,11 +41,12 @@
 
 <!-- Portfolio -->
 ## 📂 Portfolio
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
 
-  - [React - Front-end](https://github.com/LuccasLuna/react)
-  - [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
-  - [Html, css, javaScript- Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
+- [React - Front-end](https://github.com/LuccasLuna/react)
+- [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
+- [Html, css, javaScript - Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
 
 
 
