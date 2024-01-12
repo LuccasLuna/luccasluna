@@ -48,6 +48,8 @@
 - [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
 - [Html, css, javaScript - Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
 
+![Profile Views](https://komarev.com/ghpvc/?username=luccasluna)
+
 
 
 
