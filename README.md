@@ -6,7 +6,7 @@
 <h1 align="center"> Hi, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>  
 
 <p>
-  🌱 I’m currently studying software engineer at Universidade nove de julho
+  🌱 I'm 25y old, living in Brazil and currently studying software engineer at Universidade nove de julho.
   
   🔎 I'm looking for my first job opportunity.
 </p>
