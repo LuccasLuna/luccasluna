@@ -3,7 +3,7 @@
 </div>
 
 <!-- Presentation -->
-<h1 align="center"> Hi, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>  
+<h1 align="center"> **Hi, I'm Lucas!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna)
 
