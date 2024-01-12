@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Lucas,  I'm  from Brazil and I love programing, art and games.</h2>
+<h2 align="left">Hi 👋! My name is Lucas,  I'm  from Brazil and I love programming, art and games.</h2>
 
 ###
 
-<p align="left"></p>
+<p align="left"> 
+  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+</p>
 
 ###
 
