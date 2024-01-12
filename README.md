@@ -5,7 +5,7 @@
 <!-- Presentation -->
 <div align="center"> 
   
-  # Hi, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  # **Hi, I'm Lucas!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 </div>  
 
