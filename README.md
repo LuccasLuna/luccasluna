@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ## 🛠 Technologies and tools
 
 ### Languages
