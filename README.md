@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" width="920" alt="creatiflux art" src="https://cdnb.artstation.com/p/assets/images/images/012/524/999/large/zaki-aby-closeup.jpg?1535222863"  />
+  <img height="240" width="820" alt="creatiflux art" src="https://cdnb.artstation.com/p/assets/images/images/012/524/999/large/zaki-aby-closeup.jpg?1535222863"  />
 </div>
 
 <!-- Presentation -->
