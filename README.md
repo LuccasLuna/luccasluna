@@ -3,8 +3,8 @@
 ###
 
 <p align="left"> 
-  - 🌱 I’m currently studying software engineer at Universidade Nove de Julho.  />
-
+  - 🌱 I’m currently studying software engineer at Universidade Nove de Julho.
+  
   - 🔎 I am looking for my first job opportunity. 
 </p>
 
