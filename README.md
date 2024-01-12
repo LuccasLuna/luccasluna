@@ -33,7 +33,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="480" src="https://cdnb.artstation.com/p/assets/images/images/012/524/999/large/zaki-aby-closeup.jpg?1535222863"  />
+  <img height="360" src="https://cdnb.artstation.com/p/assets/images/images/012/524/999/large/zaki-aby-closeup.jpg?1535222863"  />
 </div>
 
 ###
