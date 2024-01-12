@@ -17,7 +17,7 @@
 
 <!-- ferramentas -->
 
-<h2> 🛠 Technologies and tools </h2> 
+## 🛠 Technologies and tools 
 
 ### Languages
 
@@ -40,7 +40,8 @@
 [<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>](https://www.mysql.com/) 
 
 <!-- Portfolio -->
-## Portfolio:
+## 📂 Portfolio
+<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3ejE0bHhneDZ4eHo1NXNrY242cTBsYTU5dnlucnJtbXRkZGFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
 - [React - Front-end](https://github.com/LuccasLuna/react)
 - [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
 - [Html, css, javaScript- Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
