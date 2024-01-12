@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna)
 
 <p>
-  🌱 I'm 25y old, living in Brazil and currently studying software engineer at Universidade nove de julho.
+  🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
   🔎 I'm looking for my first job opportunity.
 </p>
