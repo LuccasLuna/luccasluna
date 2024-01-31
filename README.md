@@ -22,10 +22,18 @@
 [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lusca_lunna)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-<hr>
+
 
 ## 📊 GitHub Stats:
 
+<!--
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuccasLuna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+-->
 
 <div align="center"> 
   
