@@ -24,10 +24,12 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuccasLuna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccasLuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccasLuna&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccasLuna&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccasLuna&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccasLuna&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuccasLuna&theme=blueberry)
 
 <!-- ferramentas -->
 
@@ -62,12 +64,6 @@
 - [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
 - [Html, css, javaScript - Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
 
-# 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuccasLuna&theme=dark&utcOffset=8)
 
 
 
