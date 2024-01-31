@@ -14,7 +14,7 @@
 <p>
   🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
-  🔎 I'm looking for my first job opportunity as front-end developer.
+  🔎 looking for my first job opportunity as front-end developer.
 </p>
 
 <!-- Links -->
