@@ -71,6 +71,9 @@
 [<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>](https://www.oracle.com/) 
 [<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>](https://www.mysql.com/) 
 
+### Design Tools
+[<img alt="Figma" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=figma&logoColor=white"/>](https://www.mysql.com/)
+
 <!-- Portfolio -->
 ## 📂 Portfolio
 
