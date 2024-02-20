@@ -49,7 +49,7 @@
  
 <!-- ferramentas -->
 
-## 🛠 Technologies and tools 
+## 🛠 Technologies and tools:
 
 ### Languages
 
@@ -77,7 +77,7 @@
 
 
 <!-- Portfolio -->
-## 📂 Portfolio
+## 📂 Portfolio:
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
 
