@@ -49,8 +49,9 @@
  
 <!-- ferramentas -->
 
-## 🛠 Technologies and tools:
 <!--
+## 🛠 Technologies and tools:
+
 ### Languages
 
 <img align="right" alt="Coding" height="320" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3ejE0bHhneDZ4eHo1NXNrY242cTBsYTU5dnlucnJtbXRkZGFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
@@ -79,6 +80,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
+      <h2> 🛠 Technologies and tools </h2>
       <h3> Languages </h3>
         <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
