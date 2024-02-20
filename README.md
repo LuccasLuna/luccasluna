@@ -53,7 +53,7 @@
 
 ### Languages
 
-<img align="right" alt="Coding" height="320" width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3ejE0bHhneDZ4eHo1NXNrY242cTBsYTU5dnlucnJtbXRkZGFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
+<img align="right" alt="Coding" height="320" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3ejE0bHhneDZ4eHo1NXNrY242cTBsYTU5dnlucnJtbXRkZGFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
 
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
@@ -79,7 +79,7 @@
 <!-- Portfolio -->
 ## 📂 Portfolio
 
-<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
 
 - [React - Front-end](https://github.com/LuccasLuna/react)
 - [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
