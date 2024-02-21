@@ -68,16 +68,32 @@
 [<img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>](www.adobe.com/br/products/photoshop/)
 
 
-
-
 <!-- Portfolio -->
-## 📂 Portfolio:
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
-
-- [React - Front-end](https://github.com/LuccasLuna/react)
-- [Nodejs - Api](https://github.com/LuccasLuna/api-rest)
-- [Html, css, javaScript - Front-end](https://github.com/LuccasLuna/projeto-semestral-3s)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
+    </td>
+    <td style="border: 0";>
+      <h2> 📂 Projects </h2>
+      <p>
+        💻 Here you can check some of my Projects focused on fullstack aplication
+      </p>
+      <ul>
+        <li>
+          <a href="https://github.com/LuccasLuna/react">Front-end design using React</a>
+        </li>
+        <li>
+          <a href="https://github.com/LuccasLuna/api-rest">API REST using NodeJs</a>
+        </li>
+        <li>
+          <a href="https://github.com/LuccasLuna/projeto-semestral-3s">Front-end design using hmtl, css and javaScript</a>
+        </li> 
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
