@@ -78,7 +78,7 @@
     <td style="border: 0";>
       <h2> 📂 Projects </h2>
       <p>
-        💻 Here you can check some of my Projects focused on fullstack aplication
+        💻 Here you can check some of my projects focused on fullstack aplication
       </p>
       <ul>
         <li>
