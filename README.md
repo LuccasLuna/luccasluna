@@ -23,21 +23,6 @@
 [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lusca_lunna)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-
-
-## 📊 GitHub Stats:
-
-
-<div align="center"> 
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccasLuna&theme=blueberry)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccasLuna&theme=blueberry) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuccasLuna&theme=blueberry)  -->
-
-</div>  
-
  
 <!-- ferramentas -->
 
