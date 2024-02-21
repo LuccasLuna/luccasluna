@@ -76,10 +76,11 @@
       <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif">
     </td>
     <td style="border: 0";>
-      <h2> 📂 Projects </h2>
+      <h2> 📂 Portfolio </h2>
       <p>
         💻 Here you can check some of my projects focused on fullstack aplication
       </p>
+      <h3>Projects </h3>
       <ul>
         <li>
           <a href="https://github.com/LuccasLuna/react">Front-end design using React</a>
