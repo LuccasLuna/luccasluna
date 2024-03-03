@@ -9,8 +9,7 @@
   
 </div>  
 
-![Profile Views](https://komarev.com/ghpvc/?username=luccasluna)
-
+![Profile Views](https://komarev.com/ghpvc/?username=luccasluna&style=for-the-badge&color=blue&label=VISITORS)
 <p>
   🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
