@@ -5,11 +5,13 @@
 <!-- Presentation -->
 <div align="center"> 
   
-  # **Hi, I'm Lucas!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=09EE9B&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Lucas!+%F0%9F%91%8B)](https://git.io/typing-svg)
   
 </div>  
 
 
+  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna&style=for-the-badge&color=blue&label=VISITORS)
 <p>
@@ -18,7 +20,7 @@
   🔎 looking for my first job opportunity as front-end developer.
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <!-- Links -->
 ### Contact me:
