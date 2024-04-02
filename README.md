@@ -52,8 +52,7 @@
 
 ### Languages
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css)](https://skillicons.dev)
 
 ### Libs & Frameworks
 
@@ -66,6 +65,8 @@
 
 ### Design Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Portfolio -->
 
