@@ -9,12 +9,16 @@
   
 </div>  
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna&style=for-the-badge&color=blue&label=VISITORS)
 <p>
   🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
   🔎 looking for my first job opportunity as front-end developer.
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Links -->
 ### Contact me:
