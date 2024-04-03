@@ -2,6 +2,8 @@
   <img height="320" width="840" alt="creatiflux art" src="https://cdnb.artstation.com/p/assets/images/images/012/524/999/large/zaki-aby-closeup.jpg?1535222863"  />
 </div>
 
+</br>
+
 <!-- Presentation -->
 <div align="center"> 
   
@@ -9,8 +11,6 @@
   
 </div>  
 
-
-  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna&style=for-the-badge&color=blue&label=VISITORS)
@@ -20,15 +20,11 @@
   🔎 looking for my first job opportunity as front-end developer.
 </p>
 
-
-
 <!-- Links -->
 ### Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lusca_lunna)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-
-
 
 <!-- stats -->
 ## 📊 GitHub Stats:
@@ -43,7 +39,6 @@
 
 </div>  
 
- 
 <!-- ferramentas -->
 
 ## 🛠 Technologies and tools:
