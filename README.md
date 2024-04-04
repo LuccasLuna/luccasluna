@@ -11,9 +11,13 @@
   
 </div>  
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luccasluna&style=for-the-badge&color=blue&label=VISITORS)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/luccasluna/count.svg) -->
 <p>
   🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
