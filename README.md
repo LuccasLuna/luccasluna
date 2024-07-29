@@ -51,11 +51,11 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css)](https://skillicons.dev)
 
 ### Libs & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,sequelize,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,sequelize,laravel)](https://skillicons.dev)
 
 
 ### Databases
