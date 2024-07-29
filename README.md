@@ -21,7 +21,7 @@
 <p>
   🌱 I'm 25y old, living in Brazil and currently studying Systems Development & Analysis at Universidade nove de julho.
   
-  🔎 looking for my first job opportunity as a front-end developer.
+  👨‍💻 Currently working as fullstack developer at IPEM - Instituto de Pesos e Medidas do Estado de São Paulo.
 </p>
 
 <!-- Links -->
