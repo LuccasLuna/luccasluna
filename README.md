@@ -55,7 +55,7 @@
 
 ### Libs & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,sequelize,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,express,sequelize,laravel)](https://skillicons.dev)
 
 
 ### Databases
