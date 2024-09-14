@@ -27,7 +27,7 @@
 <!-- Links -->
 ### Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-luna-dos-santos-23318b221)
-[![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lusca_lunna)
+<!-- [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lusca_lunna) -->
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lukaslunasantos_13@hotmail.com)
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() -->
 
@@ -38,7 +38,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccasLuna&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccasLuna&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccasLuna&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccasLuna&theme=blueberry) 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccasLuna&theme=blueberry) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuccasLuna&theme=blueberry)  -->
 
