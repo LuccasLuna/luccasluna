@@ -56,7 +56,7 @@
 
 ### Libs & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,express,sequelize,laravel,livewire)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,react,express,sequelize,laravel,livewire)](https://skillicons.dev)
 
 
 ### Databases
