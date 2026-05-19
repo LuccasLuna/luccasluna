@@ -54,9 +54,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css)](https://skillicons.dev)
 
-### Libs & Frameworks
+### Libs, Frameworks and tools
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,react,express,sequelize,laravel,livewire,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,react,express,sequelize,laravel,docker)](https://skillicons.dev)
 
 
 ### Databases
